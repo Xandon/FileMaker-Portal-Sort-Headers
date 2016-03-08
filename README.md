@@ -28,3 +28,8 @@ To implement these headers into a solution you will need these items in the belo
 	$$FIELD.NAME
 	$$FIELD.TOSORT
 	$$PORTALS.NAME
+    
+    
+# Credits
+The example provided uses a great technique for sorting as presented by Kevin Frank on FileMaker Hacks.
+http://filemakerhacks.com/2011/04/07/portal-sorting-part-2/
