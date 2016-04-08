@@ -33,3 +33,6 @@ To implement these headers into a solution you will need these items in the belo
 # Credits
 The example provided uses a great a technique by Kevin Frank for sorting, you can read about it more on FileMaker Hacks.
 http://filemakerhacks.com/2011/04/07/portal-sorting-part-2/
+
+For the multifile or data separated example:
+https://github.com/Xandon/FileMaker-Portal-Sort-Headers-Multifile
