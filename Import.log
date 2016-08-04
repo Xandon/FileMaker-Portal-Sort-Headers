@@ -3,3 +3,13 @@
 2016-03-08 00:54:01.132 -0800	Portage Bay Solutions	0	script steps imported : 4
 2016-03-08 00:54:01.133 -0800	Portal Sort Headers example.fmp12	0	scripts imported : 1
 2016-03-08 00:54:01.133 -0800	Portal Sort Headers example.fmp12	0	Import completed
+2016-08-04 15:13:02.395 -0700	Portal Sort Headers example.fmp12	0	Import of script steps from clipboard started
+2016-08-04 15:13:02.399 -0700	Set Globals Sort Field::24::Set Variable	106	Table referred to in the calculation “If (  $$SORT.TOSORT = globals::gSortFieldName and globals::gSortDirection = "asc" ; "desc" ; "asc" )” is missing.
+2016-08-04 15:13:02.400 -0700	Set Globals Sort Field::27::Set Field	102	Field “gSortDirection” missing.
+2016-08-04 15:13:02.400 -0700	Set Globals Sort Field::28::Set Field	102	Field “gSortFieldName” missing.
+2016-08-04 15:13:02.402 -0700	Set Globals Sort Field::42::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 15:13:02.402 -0700	Set Globals Sort Field::42::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 15:13:02.402 -0700	Set Globals Sort Field::45::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 15:13:02.402 -0700	Set Globals Sort Field::45::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 15:13:02.402 -0700	Set Globals Sort Field	0	script steps imported : 33
+2016-08-04 15:13:02.403 -0700	Portal Sort Headers example.fmp12	0	Import completed
