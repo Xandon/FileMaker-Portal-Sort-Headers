@@ -13,3 +13,22 @@
 2016-08-04 15:13:02.402 -0700	Set Globals Sort Field::45::Sort Records	102	Field “<unknown>” missing.
 2016-08-04 15:13:02.402 -0700	Set Globals Sort Field	0	script steps imported : 33
 2016-08-04 15:13:02.403 -0700	Portal Sort Headers example.fmp12	0	Import completed
+2016-08-04 17:18:34.333 -0700	Portal Sort Headers example.fmp12	0	Import of script steps from clipboard started
+2016-08-04 17:18:34.337 -0700	Set Globals Sort Field::43::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 17:18:34.338 -0700	Set Globals Sort Field::43::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 17:18:34.338 -0700	Set Globals Sort Field::46::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 17:18:34.338 -0700	Set Globals Sort Field::46::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 17:18:34.339 -0700	Set Globals Sort Field::52::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 17:18:34.339 -0700	Set Globals Sort Field::52::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 17:18:34.340 -0700	Set Globals Sort Field::55::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 17:18:34.340 -0700	Set Globals Sort Field::55::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 17:18:34.341 -0700	Set Globals Sort Field::61::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 17:18:34.341 -0700	Set Globals Sort Field::61::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 17:18:34.341 -0700	Set Globals Sort Field::64::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 17:18:34.341 -0700	Set Globals Sort Field::64::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 17:18:34.342 -0700	Set Globals Sort Field::70::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 17:18:34.342 -0700	Set Globals Sort Field::70::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 17:18:34.342 -0700	Set Globals Sort Field::73::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 17:18:34.343 -0700	Set Globals Sort Field::73::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 17:18:34.344 -0700	Set Globals Sort Field	0	script steps imported : 47
+2016-08-04 17:18:34.344 -0700	Portal Sort Headers example.fmp12	0	Import completed
