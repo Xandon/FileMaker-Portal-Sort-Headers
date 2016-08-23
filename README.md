@@ -8,26 +8,32 @@ Due to some constraints in FileMaker, they are preloaded with reference numbers.
 # To Install
 To implement these headers into a solution you will need these items in the below order:
 
-1. Import Custom functions:
-	"#"
-	"#Get"
+1. Import Custom functions to the interface file:
+	#
+	#Get
 
-2. Copy these two fields in to each table that is the related table for the portal you will be sorting 
-( be sure to set the portal to sort by them ):
+2. Copy these two fields in to each data table that is the related table for the portal you will be sorting
 	sorter_asc
 	sorter_desc
 
-3. Copy/Import Script:
+3. Set the portal sort values *
+	sorter_asc (as ascending)
+	sorter_desc (as descending)
+
+4. Copy/Import Script:
 	Set Globals Sort Field
 
-4. Copy the 12 Button Bars into your solution
+5. Copy the 20 Button Bars into your solution
 
-5. Copy the Global File Settings text objects (in layout mode it is to the right) onto the layout you will be placing the button bars onto.
+6. Copy the "global text calculation" object (in layout mode it is the red text box) onto the layout where you will be placing the button bars.
 
-6. Set the GLOBAL FILE SETTINGS text (in layout mode it is to the right) with the desired values:
+7. Set the GLOBAL FILE SETTINGS hide calculation (in layout mode, it is on the page and is a let statement in the hide ) with the desired values **:
 	$$FIELD.NAME
 	$$FIELD.TOSORT
 	$$PORTALS.NAME
+
+*  Optional: For sorting a list view (instead of a portal) look at the commented out text in the "Set Global Sort Field" script
+** Optional: you could also set the globals in a script instead of referencing them from the object, but the script will need to be run before the layout displays.
     
     
 # Credits
