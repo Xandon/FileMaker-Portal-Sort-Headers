@@ -32,3 +32,31 @@
 2016-08-04 17:18:34.343 -0700	Set Globals Sort Field::73::Sort Records	102	Field “sorter_desc” missing.
 2016-08-04 17:18:34.344 -0700	Set Globals Sort Field	0	script steps imported : 47
 2016-08-04 17:18:34.344 -0700	Portal Sort Headers example.fmp12	0	Import completed
+2016-08-23 10:36:05.348 -0700	Portal Sort Headers example.fmp12	0	Import of script steps from clipboard started
+2016-08-23 10:36:05.353 -0700	Set Globals Sort Field::27::Set Variable	106	Table referred to in the calculation “If (  $$SORT.TOSORT = globals::gSortFieldName and globals::gSortDirection = "asc" ; "desc" ; "asc" )” is missing.
+2016-08-23 10:36:05.354 -0700	Set Globals Sort Field::31::Set Field	102	Field “gSortDirection” missing.
+2016-08-23 10:36:05.354 -0700	Set Globals Sort Field::32::Set Field	102	Field “gSortFieldName” missing.
+2016-08-23 10:36:05.356 -0700	Set Globals Sort Field::51::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:36:05.357 -0700	Set Globals Sort Field::51::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:36:05.357 -0700	Set Globals Sort Field::54::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:36:05.357 -0700	Set Globals Sort Field::54::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:36:05.358 -0700	Set Globals Sort Field::60::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:36:05.358 -0700	Set Globals Sort Field::60::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:36:05.358 -0700	Set Globals Sort Field::63::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:36:05.359 -0700	Set Globals Sort Field::63::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:36:05.359 -0700	Set Globals Sort Field	0	script steps imported : 50
+2016-08-23 10:36:05.359 -0700	Portal Sort Headers example.fmp12	0	Import completed
+2016-08-23 10:40:41.162 -0700	Portal Sort Headers example.fmp12	0	Import of script steps from clipboard started
+2016-08-23 10:40:41.168 -0700	Set Globals Sort Field::12::Set Variable	106	Table referred to in the calculation “If (  $$SORT.TOSORT = globals::gSortFieldName and globals::gSortDirection = "asc" ; "desc" ; "asc" )” is missing.
+2016-08-23 10:40:41.169 -0700	Set Globals Sort Field::16::Set Field	102	Field “gSortDirection” missing.
+2016-08-23 10:40:41.170 -0700	Set Globals Sort Field::17::Set Field	102	Field “gSortFieldName” missing.
+2016-08-23 10:40:41.171 -0700	Set Globals Sort Field::34::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:40:41.171 -0700	Set Globals Sort Field::34::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:40:41.172 -0700	Set Globals Sort Field::37::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:40:41.172 -0700	Set Globals Sort Field::37::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:40:41.173 -0700	Set Globals Sort Field::43::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:40:41.173 -0700	Set Globals Sort Field::43::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:40:41.173 -0700	Set Globals Sort Field::46::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:40:41.173 -0700	Set Globals Sort Field::46::Sort Records	102	Field “<unknown>” missing.
+2016-08-23 10:40:41.173 -0700	Set Globals Sort Field	0	script steps imported : 48
+2016-08-23 10:40:41.173 -0700	Portal Sort Headers example.fmp12	0	Import completed
