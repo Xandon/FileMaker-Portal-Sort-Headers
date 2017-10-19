@@ -9,8 +9,8 @@ Due to some constraints in FileMaker, they are preloaded with reference numbers.
 To implement these headers into a solution you will need these items in the below order:
 
 1. Import Custom functions to the interface file:
-	#
-	#Get
+	"#"
+	"#Get"
 
 2. Copy these two fields in to each data table that is the related table for the portal you will be sorting
 	sorter_asc
